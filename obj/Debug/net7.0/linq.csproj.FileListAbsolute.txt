@@ -1,0 +1,15 @@
+C:\Users\tinoc\source\repos\linq\bin\Debug\net7.0\linq.exe
+C:\Users\tinoc\source\repos\linq\bin\Debug\net7.0\linq.deps.json
+C:\Users\tinoc\source\repos\linq\bin\Debug\net7.0\linq.runtimeconfig.json
+C:\Users\tinoc\source\repos\linq\bin\Debug\net7.0\linq.dll
+C:\Users\tinoc\source\repos\linq\bin\Debug\net7.0\linq.pdb
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.csproj.AssemblyReference.cache
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.AssemblyInfoInputs.cache
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.AssemblyInfo.cs
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.dll
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\refint\linq.dll
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.pdb
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\linq.genruntimeconfig.cache
+C:\Users\tinoc\source\repos\linq\obj\Debug\net7.0\ref\linq.dll
